@@ -94,7 +94,7 @@ Deployment: Render
 
 ⚙ Installation
 1. Clone Repo
-git clone https://github.com/Omii2510/SmartInventory
+git clone https://github.com/PrathmeshSose/Smart_Inventory_NLP
 
 2. Backend Setup
 cd backend
